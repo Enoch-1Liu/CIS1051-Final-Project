@@ -8,7 +8,7 @@ Specifically, we want to visualize the fourier transform. We also want to create
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 Collaborators on this project:
-Shivom Passey, Enoch Liu, and Hussein
+Shivom Passey, Enoch Liu, and Hussam Musleh
 
 ## Do you have any questions of your own?
 
