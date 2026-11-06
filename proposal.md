@@ -26,6 +26,7 @@ The Fourier transform is applicable in Probability theory, so there is a possibl
 
 Enoch Liu, enoch.liu@temple.edu, TA: Faegheh Seifhashemi
 Shivom Passey, tuq79582@temple.edu, TA: Faegheh Seifhashemi
+Hussam musleh, tus13466@temple.edu, TA:Faegheh Seifhashemi
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
